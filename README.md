@@ -46,8 +46,6 @@ Les contributions sont les bienvenues !
 - **Ouvrir une Pull Request**
 
 ## Contact
-Pour toute question, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/votre-profil) ou par email : **votre.email@example.com**.
+Pour toute question, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/adiyixavier/) ou par email : **xavierlamar17@gmail.com**.
 
----
-🚀 *Ce projet illustre l'utilisation de l'intelligence artificielle pour l'analyse des données clients et l'optimisation de la rétention dans les télécommunications.*
 
